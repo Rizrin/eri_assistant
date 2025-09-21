@@ -11,7 +11,7 @@ The interface is styled with pink Elysia accent colors inspired by Honkai Impact
 - 🔌 Local AI connection: Connects to http://localhost:11434/api/chat (Ollama / LLaMA) to get AI responses.
 - ⚡ Simple codebase: Easy to modify or extend.
 
-## Requirements
+## 🛠️ Requirements
 
 - Flutter 3.x
 - Dart 3.x
