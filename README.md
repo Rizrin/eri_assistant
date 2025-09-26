@@ -19,12 +19,12 @@ The interface is styled with pink Elysia accent colors inspired by Honkai Impact
 
 ## 🚀 How to Run
 
-- Clone this repository: git clone https://github.com/Rizrin/eri_assistant.git
-cd eri-assistant
-- Make sure you have Flutter installed: flutter doctor
-- Start your local AI server (example: Ollama): ollama run llama3.2
+- Clone this repository: `git clone https://github.com/Rizrin/eri_assistant.git`
+`cd eri-assistant`
+- Make sure you have Flutter installed: `flutter doctor`
+- Start your local AI server (example: Ollama): `ollama run llama3.2`
   or any model you prefer.
-- Run the app: flutter run
+- Run the app: `flutter run`
 
 ## ⚙️ Configuration
 - Change model in query() to the model you run locally (default: "llama3.2").
